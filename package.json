@@ -1,0 +1,8 @@
+{
+  "name": "splat2mesh",
+  "version": "1.0.0",
+  "description": "SPZ Gaussian splat to triangle mesh collider tool",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
